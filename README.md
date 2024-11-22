@@ -9,6 +9,9 @@
   **itsdypixx@gmail.com**
 
 <hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dypixx&show_icons=true&locale=en&layout=compact" alt="Dypixx" /></p>
+
+<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dypixx&show_icons=true&locale=en" alt="dypixx" /></p>
