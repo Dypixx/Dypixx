@@ -1,4 +1,4 @@
-## Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Dypixx!</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dypixx&label=Profile%20Views&color=blue&style=flat-square)
 ![Total Repositories](https://img.shields.io/github/search/dypixx/dypixx/repo?label=Total%20Repositories&color=green&style=flat-square)
